@@ -1,0 +1,1 @@
+# vanishing-coefficients-qproducts
